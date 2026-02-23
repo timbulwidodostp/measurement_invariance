@@ -1,6 +1,8 @@
 # measurement_invariance
 Measurement invariance test Use measurement_invariance With (In) R Software
 
+https://www.youtube.com/watch?v=Ji7fjRuZx-U
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
